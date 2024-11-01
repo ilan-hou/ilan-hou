@@ -19,10 +19,7 @@
 
 
 <h2>🏆Profile Trophies</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img aligh=center width=800 src="https://github-profile-trophy.vercel.app/?username=ilan-hou&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ilan-hou&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <picture>
