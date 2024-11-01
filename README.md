@@ -28,3 +28,26 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilan-hou/ilan-hou/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilan-hou/ilan-hou/output/github-contribution-grid-snake.svg">
 </picture>
+
+a href="https://github.com/Envoy-VC/awesome-badges" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=awesome-badges&theme=dark"/>
+</a>
+<a href="https://github.com/Envoy-VC/piper-pay" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=piper-pay&theme=dark" align="center" />
+</a>
+<a href="https://github.com/Envoy-VC/blaze-id" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=blaze-id&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/nillion-tools" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=nillion-tools&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/zk-guesser" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=zk-guesser&theme=dark" />
+</a>
+<a href="https://github.com/Envoy-VC/aos-playground" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ilan-hou&repo=aos-playground&theme=dark" />
+</a>
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/ilan-hou/count.svg)
