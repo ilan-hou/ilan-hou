@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
-<h2>About me</h2>
+
 - 🏫 I’m currently studying at University of Waterloo
 - 🌱 I’m currently learning data science and artificial intelligence
 - 📫 How to reach me: ruih.hou@outlook.com
