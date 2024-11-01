@@ -22,12 +22,6 @@
 </a>
 
 
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ilan-hou&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilan-hou&layout=compact" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilan-hou/ilan-hou/output/github-contribution-grid-snake-dark.svg">
