@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/wixiaolan/">
-    <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
+    <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
 <a href="https://x.com/RUIHAI3">
     <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
