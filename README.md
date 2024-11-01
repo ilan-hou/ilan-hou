@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
+    <a href="https://www.reddit.com/user/alankuroi/">
+    <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
     <a href="https://www.instagram.com/wixiaolan/">
     <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
 <a href="https://x.com/RUIHAI3">
