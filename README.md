@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-## 𝗦𝘁𝗮𝘁𝘀
+<h2>Stats</h2>
 
 <a href="https://github.com/ilan-hou/ilan-hou">
 
