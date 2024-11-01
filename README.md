@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **ilan-hou/ilan-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <!-- &bg_color=30,f8d845,f04077,bf55db,8faadc
 &bg_color=30,20002c,7303c0,ec38bc
 &bg_color=30,83a4d4,b6fbff -->
@@ -28,8 +28,5 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=QQKdeWakatime&bg_color=55,f15670,c055d9,a3caf4&title_color=ffffff&text_color=ffffff&layout=compact&hide_border=true" />
-
-  <br/>
 </a>
   
