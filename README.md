@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://steamcommunity.com/profiles/76561198962032638/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/nintendo"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
   <a href="https://www.linkedin.com/in/ruihai-hou/">
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
