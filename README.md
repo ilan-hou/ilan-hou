@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
+    <a href="https://www.instagram.com/wixiaolan/">
+    <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
 <a href="https://x.com/RUIHAI3">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
-  <a href="https://www.linkedin.com/in/ruihai-hou/">
+    <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
+    <img alt="Steam" title="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
   <a href="https://www.linkedin.com/in/ruihai-hou/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     <a href="https://discord.gg/uzFpGPej">
