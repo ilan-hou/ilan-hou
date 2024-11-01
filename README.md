@@ -1,19 +1,23 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
+    <a href="https://space.bilibili.com/386635151?spm_id_from=333.1007.0.0">
+    <img alt="Bilibili" title="Bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
+    <a href="https://www.reddit.com/user/alankuroi/">
+    <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
     <a href="https://www.reddit.com/user/alankuroi/">
     <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
     <a href="https://www.instagram.com/wixiaolan/">
     <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
-<a href="https://x.com/RUIHAI3">
+    <a href="https://x.com/RUIHAI3">
     <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
-  <a href="https://steamcommunity.com/profiles/76561198962032638/">
+    <a href="https://steamcommunity.com/profiles/76561198962032638/">
     <img alt="Steam" title="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
-  <a href="https://www.linkedin.com/in/ruihai-hou/">
+    <a href="https://www.linkedin.com/in/ruihai-hou/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     <a href="https://discord.gg/uzFpGPej">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-  <a href="https://www.youtube.com/@wixiaolan">
+    <a href="https://www.youtube.com/@wixiaolan">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
     
 </p>
