@@ -28,7 +28,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilan-hou/ilan-hou/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilan-hou/ilan-hou/output/github-contribution-grid-snake.svg">
 </picture>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ilan-hou.ilan-hou)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
