@@ -4,8 +4,8 @@
   <a href="https://github.com/ilan-hou">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="https://www.linkedin.com/in/ruihai-hou/">
+     
+  <a href="https://steamcommunity.com/profiles/76561198962032638/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
   <a href="https://www.linkedin.com/in/ruihai-hou/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
