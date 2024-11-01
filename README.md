@@ -18,9 +18,9 @@
 </a>
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Profile Trophies</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ilan-hou&column=10&theme=gruvbox&no-frame=true"/>
+  <img aligh=center width=800 src="https://github-profile-trophy.vercel.app/?username=ilan-hou&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
 
