@@ -3,7 +3,7 @@
 
 - 🏫 I’m currently studying at University of Waterloo
 - 🌱 I’m currently learning data science and artificial intelligence
-- 📫 How to reach me: email: ruih.hou@outlook.com
+- 📫 How to reach me: ruih.hou@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
