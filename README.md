@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 
 - 🏫 I’m currently studying at University of Waterloo
