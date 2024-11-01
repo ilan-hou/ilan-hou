@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/ilan-hou">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+<!--     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white"> -->
      
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
