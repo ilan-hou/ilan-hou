@@ -7,8 +7,6 @@
     <img alt="Tiktok" title="Tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok"></a>
     <a href="https://www.reddit.com/user/alankuroi/">
     <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
-    <a href="https://www.instagram.com/wixiaolan/">
-    <img alt="ins" title="ins" height="48" width="48" src="https://cdn.simpleicons.org/instagram"></a>
     <a href="https://x.com/RUIHAI3">
     <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
     <a href="https://steamcommunity.com/profiles/76561198962032638/">
@@ -17,8 +15,7 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     <a href="https://discord.gg/uzFpGPej">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-    <a href="https://www.youtube.com/@wixiaolan">
-    <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+    
     
 </p>
 
