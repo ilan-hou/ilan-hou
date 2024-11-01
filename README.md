@@ -3,10 +3,10 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ruihai-hou/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
-    <a href="https://space.bilibili.com/386635151?spm_id_from=333.1007.0.0">
-    <img alt="Bilibili" title="Bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
     <a href="https://discord.gg/uzFpGPej">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
+    <a href="https://space.bilibili.com/386635151?spm_id_from=333.1007.0.0">
+    <img alt="Bilibili" title="Bilibili" height="48" width="48" src="https://cdn.simpleicons.org/bilibili"></a>
     <a href="https://www.reddit.com/user/alankuroi/">
     <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
     <a href="https://x.com/RUIHAI3">
