@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
-     
+<a href="https://steamcommunity.com/profiles/76561198962032638/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/nintendo"></a>
+  <a href="https://www.linkedin.com/in/ruihai-hou/">
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
   <a href="https://www.linkedin.com/in/ruihai-hou/">
@@ -10,6 +12,7 @@
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
   <a href="https://www.youtube.com/@wixiaolan">
     <img alt="YouTube" title="YouTube" height="48" width="48" src="https://cdn.simpleicons.org/youtube"></a>
+    
 </p>
 
 - 🏫 I’m currently studying at University of Waterloo
