@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
-<a href="https://steamcommunity.com/profiles/76561198962032638/">
+<a href="https://x.com/RUIHAI3">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
   <a href="https://www.linkedin.com/in/ruihai-hou/">
   <a href="https://steamcommunity.com/profiles/76561198962032638/">
