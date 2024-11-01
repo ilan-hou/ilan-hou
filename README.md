@@ -23,6 +23,7 @@
 - 🌱 I’m currently learning data science and artificial intelligence
 - 📫 How to reach me: ruih.hou@outlook.com
 - 😄 Pronouns: He/Him
+- ⚡️ Fun fact: I love Nintendo games.
 
 <h2>📊Stats</h2>
 
