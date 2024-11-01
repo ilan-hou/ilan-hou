@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
-**About me**
+<h2>About me</h2>
 - 🏫 I’m currently studying at University of Waterloo
 - 🌱 I’m currently learning data science and artificial intelligence
 - 📫 How to reach me: ruih.hou@outlook.com
@@ -18,7 +18,7 @@
 </a>
 
 
-**🏆Profile Trophies**
+<h2>Profile Trophies</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img aligh=center width=800 src="https://github-profile-trophy.vercel.app/?username=ilan-hou&column=10&theme=gruvbox&no-frame=true"/>
 </a>
