@@ -5,10 +5,6 @@
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     <a href="https://discord.gg/uzFpGPej">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
-    <a href="https://www.reddit.com/user/alankuroi/">
-    <img alt="Reddit" title="Reddit" height="48" width="48" src="https://cdn.simpleicons.org/reddit"></a>
-    <a href="https://stackoverflow.com/users/28095820/wixiaolan">
-    <img alt="Stackoverflow" title="Stackoverflow" height="48" width="48" src="https://cdn.simpleicons.org/stackoverflow"></a>
     <a href="https://x.com/RUIHAI3">
     <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
     <a href="https://steamcommunity.com/profiles/76561198962032638/">
