@@ -7,8 +7,7 @@
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
     <a href="https://x.com/RUIHAI3">
     <img alt="X" title="X" height="48" width="48" src="https://cdn.simpleicons.org/x"></a>
-    <a href="https://steamcommunity.com/profiles/76561198962032638/">
-    <img alt="Steam" title="Steam" height="48" width="48" src="https://cdn.simpleicons.org/steam"></a>
+
     
     
 </p>
