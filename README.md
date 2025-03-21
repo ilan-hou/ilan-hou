@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ruihai Hou!</h1>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ruihai-hou/">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     <a href="https://discord.gg/uzFpGPej">
     <img alt="Discord" title="Discord" height="48" width="48" src="https://cdn.simpleicons.org/discord"></a>
     <a href="https://x.com/RUIHAI3">
